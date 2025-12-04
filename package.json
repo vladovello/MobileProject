@@ -13,7 +13,7 @@
   "dependencies": {
     "@rneui/base": "^4.0.0-rc.2",
     "@rneui/themed": "^4.0.0-rc.2",
-    "metro-react-native-babel-preset": "0.67.0",
+    "metro-react-native-babel-preset": "0.77.0",
     "react": "17.0.2",
     "react-native": "0.68.1",
     "react-native-elements": "^3.4.2",
